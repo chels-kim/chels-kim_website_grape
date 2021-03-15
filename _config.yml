@@ -4,21 +4,28 @@ url : "https://chels-kim.github.io"
 
 # Blog Settings
 theme_settings :
-  title : Grape Theme
+  title : Chelsea Kim
   favicon : assets/favicon.ico
 
   # Profile Settings
   profile :
-    image : assets/img/smile.png
+    image : assets/img/profile.png
     username : Chelsea Kim
     description : Master's graduate in Computational Neuroscience.
-    experience :
-      - start :
-        end :
-        experience : company name, title
+    education :
+      - start : 2014
+        end : 2018
+        experience : Bachelor's of Science, Joint Major Physiology and Math
+      - start : 2018
+        end : 2020
+        experience : Master's of Science, Physiology
     skills : 
-      - skill : HTML5 & CSS
-        value : 85  # Percent value
+      - skill : MATLAB
+        value : 95
+      - skill : Python
+        value : 80
+      - skill : Statistical analysis
+        value : 100 # Percent value
         
   # Icons
   icons :
@@ -28,7 +35,7 @@ theme_settings :
     gitlab: 
     bitbucket: 
     google_plus:
-    twitter:
+    twitter: ChelseaBrKim
     youtube:
     facebook:
     instagram:

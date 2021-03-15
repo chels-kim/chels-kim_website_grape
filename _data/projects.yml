@@ -1,31 +1,24 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/naye0ng/Grape-Theme # Full URL
-    image : "portfolio.png" # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Grape-Theme
-    summary : A awesome jekyll theme!
-    description : This project is my first jekyll theme. and everyone can customize this easily.  
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'.
+    url : https://github.com/chels-kim/kaggle-covid-clintri # Full URL
+    image : # path: assets/project/
+    date : 2021.03.15
+    title : An EDA on COVID-19 Clinical Trials Data
+    summary : An exploratory data analysis of global clinical trials data gathered by <a href="clinicaltrials.gov">
+      ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
+    description :
     contents :
-        - title : 1. 블로그 첫 화면 구성
-          image : home.png
-          description : <li>Responsive Layout</li>
-            <li>User Profile</li> 
-            <li>Tags</li> 
-            <li>Projects</li> 
-            <li>Pagination</li>
-        - title : 2. 태그 페이지
-          image : tags.png
-          description : <li>Responsive Layout</li> 
-            <li>Tags</li> 
-        - title : 3. 남은 개발 과제
+        - title :
           image :
-          description : <li>project 부분 디자인 변경</li>
-            <li>favicon.ico, search 기능</li>
-            <li>OG Tag 추가</li>
-            <li>profile 이미지 효과</li>
-            <li>gem 배포</li> 
+          description :
+            <li>bullet point</li>
+        - title :
+          image :
+          description :
+        - title :
+          image :
+          description :
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
