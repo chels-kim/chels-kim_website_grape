@@ -9,10 +9,10 @@ theme_settings :
 
   # Profile Settings
   profile :
-    image : assets/img/profile.png
+    image : assets/img/profile.jpg
     username : Chelsea Kim
     description : Master's graduate in Computational Neuroscience.
-    education :
+    experience :
       - start : 2014
         end : 2018
         experience : Bachelor's of Science, Joint Major Physiology and Math

@@ -7,7 +7,8 @@
     title : An EDA on COVID-19 Clinical Trials Data
     summary : An exploratory data analysis of global clinical trials data gathered by <a href="clinicaltrials.gov">
       ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
-    description :
+    description : An exploratory data analysis of global clinical trials data gathered by <a href="clinicaltrials.gov">
+    ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
     contents :
         - title :
           image :
