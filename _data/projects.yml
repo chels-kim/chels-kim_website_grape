@@ -9,17 +9,6 @@
       ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
     description : An exploratory data analysis of global clinical trials on <a href="https://clinicaltrials.gov">
       ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
-    contents :
-        - title :
-          image :
-          description :
-            <li>bullet point</li>
-        - title :
-          image :
-          description :
-        - title :
-          image :
-          description :
 
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
@@ -29,4 +18,15 @@
     date : 2019.06.09 - Developing
     title : Dummy project
     summary : This is Dummy
-    description :  
+    description :
+    contents:
+      - title:
+        image:
+        description:
+          <li>bullet point</li>
+      - title:
+        image:
+        description:
+      - title:
+        image:
+        description:
