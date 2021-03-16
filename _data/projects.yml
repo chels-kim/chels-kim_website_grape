@@ -1,7 +1,7 @@
 - project :
     print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'.
-    url : https://github.com/chels-kim/kaggle-covid-clintri # Full URL
+    modal : False # If 'True' is selected, modal can open in 'portfolio.html'.
+    url : 2021/03/15/COVID-19-Clinical-Trials.html # Full URL
     image : # path: assets/project/
     date : 2021.03.15
     title : An EDA on COVID-19 Clinical Trials Data
@@ -9,16 +9,6 @@
       ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
     description : An exploratory data analysis of global clinical trials on <a href="https://clinicaltrials.gov">
       ClinicalTrials.gov</a>, obtained from <a href="https://www.kaggle.com/parulpandey/covid19-clinical-trials-dataset">Kaggle</a>.
-
-- project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url :  # Full URL
-    image : # path: assets/project/
-    date : 2019.06.09 - Developing
-    title : Dummy project
-    summary : This is Dummy
-    description :
     contents:
       - title:
         image:

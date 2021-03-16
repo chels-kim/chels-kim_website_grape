@@ -26,6 +26,8 @@ theme_settings :
         value : 80
       - skill : Statistical analysis
         value : 90 # Percent value
+      - skill : Data Visualization
+        value : 90
         
   # Icons
   icons :
