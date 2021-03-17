@@ -1,18 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d98bcd2d-eb87-4d3f-8c46-8af6b58ab62e" name="Default Changelist" comment="Initial commit">
+    <list default="true" id="d98bcd2d-eb87-4d3f-8c46-8af6b58ab62e" name="Default Changelist" comment="Basic updates on personal info">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1pnnN8ObZhEYDYOr3OdyUgtpmDA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,9 +47,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -60,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1615827679233</updated>
       <workItem from="1615827681026" duration="882000" />
-      <workItem from="1615835182094" duration="7598000" />
+      <workItem from="1615835182094" duration="9921000" />
+      <workItem from="1615903342510" duration="25010000" />
+      <workItem from="1615998020187" duration="14559000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1615840567968</created>
@@ -69,7 +96,49 @@
       <option name="project" value="LOCAL" />
       <updated>1615840567968</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic updates on personal info">
+      <created>1615843533532</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615843533532</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic updates on personal info">
+      <created>1615843786248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615843786248</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Some changes to website looks. Also testing to see if .ipynb converted to .md file on jupyter works.">
+      <created>1615912977611</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615912977611</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes to colour settings + test runs on formatting the .ipynb file using cell-tagging feature on Jupyter and then nbconvert-ing with the TagRemovePreprocessor feature.">
+      <created>1615927299264</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615927299264</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Smol changes to _config.yml and projects.yml">
+      <created>1615928584749</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615928584749</updated>
+    </task>
+    <task id="LOCAL-00007" summary="March 17: Automated Jupyter to Markdown conversion using format.sh and format.py.">
+      <created>1616015664080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616015664080</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +172,11 @@
             </State>
           </value>
         </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
       </map>
     </option>
     <option name="OPEN_GENERIC_TABS">
@@ -110,9 +184,15 @@
         <entry key="1" value="TOOL_WINDOW" />
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Basic updates on personal info" />
+    <MESSAGE value="Some changes to website looks. Also testing to see if .ipynb converted to .md file on jupyter works." />
+    <MESSAGE value="Changes to colour settings + test runs on formatting the .ipynb file using cell-tagging feature on Jupyter and then nbconvert-ing with the TagRemovePreprocessor feature." />
+    <MESSAGE value="Smol changes to _config.yml and projects.yml" />
+    <MESSAGE value="March 17: Automated Jupyter to Markdown conversion using format.sh and format.py." />
+    <option name="LAST_COMMIT_MESSAGE" value="March 17: Automated Jupyter to Markdown conversion using format.sh and format.py." />
   </component>
 </project>
