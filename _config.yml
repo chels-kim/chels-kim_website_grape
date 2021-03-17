@@ -5,13 +5,13 @@ url : "https://chels-kim.github.io"
 # Blog Settings
 theme_settings :
   title : Chelsea Kim's Personal Website
-  favicon : assets/favicon.ico
+  favicon : assets/girl_icon.ico
 
   # Profile Settings
   profile :
     image : assets/img/profile.jpg
     username : Chelsea Kim
-    description : Master's graduate in Computational Neuroscience.
+    description : A Master's graduate in Computational Neuroscience. Always learning new things!
     experience :
       - start: 2018
         end: 2020
@@ -32,7 +32,7 @@ theme_settings :
   # Icons
   icons :
     email:  chelsea.br.kim@gmail.com # Full email address, e.g. "sample@google.com"
-    linkedin:  # Full URL 
+    linkedin:  https://www.linkedin.com/in/chelsea-kim-a4600339/ # Full URL
     github: chels-kim
     gitlab: 
     bitbucket: 
@@ -49,7 +49,7 @@ theme_settings :
 paginate: 5
 paginate_path: "blog/page:num"
 
-# Build Ssttings
+# Build Settings
 sass:
   sass_dir: _sass
   style: :compressed
