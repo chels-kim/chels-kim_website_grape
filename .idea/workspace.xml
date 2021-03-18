@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d98bcd2d-eb87-4d3f-8c46-8af6b58ab62e" name="Default Changelist" comment="Basic updates on personal info">
+    <list default="true" id="d98bcd2d-eb87-4d3f-8c46-8af6b58ab62e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_jupyter/format.py" beforeDir="false" afterPath="$PROJECT_DIR$/_jupyter/format.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_jupyter/format.sh" beforeDir="false" afterPath="$PROJECT_DIR$/_jupyter/format.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/base/_highlight.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/base/_highlight.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/bootstrap/_variables.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,9 @@
       </map>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -43,14 +53,14 @@
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -77,6 +87,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Chelsea\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d98bcd2d-eb87-4d3f-8c46-8af6b58ab62e" name="Default Changelist" comment="" />
@@ -87,7 +100,9 @@
       <workItem from="1615827681026" duration="882000" />
       <workItem from="1615835182094" duration="9921000" />
       <workItem from="1615903342510" duration="25010000" />
-      <workItem from="1615998020187" duration="14559000" />
+      <workItem from="1615998020187" duration="15354000" />
+      <workItem from="1616078987353" duration="3276000" />
+      <workItem from="1616098793860" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1615840567968</created>
@@ -138,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616015664080</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="March 17 (2): workspace file + website icon">
+      <created>1616016128015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616016128015</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +215,7 @@
     <MESSAGE value="Changes to colour settings + test runs on formatting the .ipynb file using cell-tagging feature on Jupyter and then nbconvert-ing with the TagRemovePreprocessor feature." />
     <MESSAGE value="Smol changes to _config.yml and projects.yml" />
     <MESSAGE value="March 17: Automated Jupyter to Markdown conversion using format.sh and format.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="March 17: Automated Jupyter to Markdown conversion using format.sh and format.py." />
+    <MESSAGE value="March 17 (2): workspace file + website icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="March 17 (2): workspace file + website icon" />
   </component>
 </project>

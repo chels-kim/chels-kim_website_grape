@@ -15,7 +15,7 @@ from nbformat import NO_CONVERT, read
 # from tagger.model import load_model
 
 
-def rmd(nb): # for R Markdown files
+def rmd(nb):  # for R Markdown files
     with open(nb, "r") as file:
         filedata = file.read()
     filedata = re.sub('src="', 'src="/assets/img/', filedata)

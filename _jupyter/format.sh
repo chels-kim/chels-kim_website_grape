@@ -43,6 +43,7 @@ function format(){
         rmd
     fi
     echo "==========Formatting complete!=========="
+    read -p "Press enter to continue"
     cd ../_posts
     open ${nb%.*}.md
 }
